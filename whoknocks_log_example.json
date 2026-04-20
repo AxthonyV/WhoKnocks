@@ -1,0 +1,50 @@
+[
+  {
+    "time": "14:55:01",
+    "remote_ip": "142.250.80.46",
+    "remote_port": 443,
+    "country": "United States",
+    "city": "Mountain View",
+    "isp": "Google LLC",
+    "process": "chrome.exe",
+    "pid": 4512,
+    "threat": "LOW",
+    "status": "ESTABLISHED"
+  },
+  {
+    "time": "14:55:01",
+    "remote_ip": "185.125.188.55",
+    "remote_port": 443,
+    "country": "United Kingdom",
+    "city": "London",
+    "isp": "Canonical",
+    "process": "snapd",
+    "pid": 890,
+    "threat": "LOW",
+    "status": "ESTABLISHED"
+  },
+  {
+    "time": "14:55:02",
+    "remote_ip": "192.168.1.15",
+    "remote_port": 22,
+    "country": "Local Network",
+    "city": "LAN",
+    "isp": "Local",
+    "process": "sshd",
+    "pid": 1120,
+    "threat": "LOCAL",
+    "status": "ESTABLISHED"
+  },
+  {
+    "time": "14:55:03",
+    "remote_ip": "104.244.42.129",
+    "remote_port": 443,
+    "country": "United States",
+    "city": "San Francisco",
+    "isp": "X Corp",
+    "process": "brave.exe",
+    "pid": 3304,
+    "threat": "LOW",
+    "status": "ESTABLISHED"
+  }
+]
