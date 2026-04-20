@@ -71,6 +71,7 @@ Ever wondered *"what is my browser actually connecting to?"* or *"why is somethi
 │ ⚠ High    0 │  └─────────────────────────┘
 └─────────────┘
 ```
+<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/9403d767-6956-474c-88e0-cb794aa763ee" />
 
 ---
 
